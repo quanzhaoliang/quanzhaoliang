@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computing Science Student
 -------------------------
 
-I've been
+I am a husband, a father, and a student.
 
 * 🌍  I'm based in Vancouver
 * ✉️  You can contact me at [lquanzhao@gmail.com](mailto:lquanzhao@gmail.com)
@@ -28,6 +28,6 @@ I've been
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/quanzhaoliang"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=quanzhaoliang&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/quanzhaoliang"><img src="https://github-readme-stats.vercel.app/api?username=quanzhaoliang&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=312e81&hide_border=true&show_icons=true" alt="quanzhaoliang's GitHub stats" /></a>
 
-<a href="https://github.com/quanzhaoliang" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanzhaoliang&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/quanzhaoliang"><img src="https://github-readme-streak-stats.herokuapp.com/?user=quanzhaoliang&stroke=ffffff&background=312e81&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>

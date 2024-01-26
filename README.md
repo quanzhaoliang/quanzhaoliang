@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computing Science Student
 -------------------------
 
-I am a husband, a father, and a student.
-
 * 🌍  I'm based in Vancouver
 * ✉️  You can contact me at [lquanzhao@gmail.com](mailto:lquanzhao@gmail.com)
 * 🧠  I'm learning Kotlin, React, and ...
